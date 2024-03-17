@@ -2,6 +2,7 @@
 title = "Berger Dental - New Patients"
 id = "patients"
 description = "New Patients"
+keywords = ["Dentist","new","Denton","new patients"]
 +++
 
 ### **NEW PATIENTS** 
