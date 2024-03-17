@@ -1,5 +1,5 @@
 +++
-title = "New Patients"
+title = "Berger Dental - New Patients"
 id = "patients"
 description = "New Patients"
 +++
