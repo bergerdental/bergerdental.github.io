@@ -1,5 +1,5 @@
 +++
-title = "Procedures"
+title = "Berger Dental - Procedures"
 id= "procedures"
 description = "Procedures"
 keywords = ["Denitist","denton","procedures"]
