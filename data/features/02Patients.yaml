@@ -1,5 +1,5 @@
 weight: 2
 name: "New Patients"
-icon: "fa-regular fa-user"
+icon: "fas fa-user"
 url: "https://www.bergerdental.com/patients"
 description: "We are accepting new Patients and look forward to taking care of your dental needs."
