@@ -10,7 +10,7 @@ We are currently accepting new patients and look forward to taking care of your 
 
 Below is the patient information, medical history, consent and HIPAA forms which you can download to fill out and either bring with you to your appointment or send ahead of time.
 
-#### Download New Patient Forms
+#### [Download New Patient Forms](BergerDental-NewPatientForm.pdf)
 
 At Berger Dental, we schedule one patient at a time so that we can concentrate on your treatment when you are here. Therefore, since we set time aside for you and do not schedule multiple people at a time, it is important that you keep your appointments or give 24 hours notice if you are unable to come.
 
