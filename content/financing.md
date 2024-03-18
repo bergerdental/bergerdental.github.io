@@ -1,5 +1,5 @@
 +++
-title = "Berger Dental - Financing"
+title = "Financing"
 id= "financing"
 description = "Financing"
 keywords = ["Dentist","financing","Denton"]
