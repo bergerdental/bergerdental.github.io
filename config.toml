@@ -86,7 +86,7 @@ paginate = 2
 	
 [params]
 
-	author = "BergerDental"
+	author = "Berger Dental"
 	facebook = "https://www.facebook.com/groups/230607091341050"
 	sitename = "Berger Dental - Denton, Texas 76201"
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
@@ -96,7 +96,7 @@ paginate = 2
 	logo_small = "img/logo.png"
 	
     about_us = "<p>Berger Dental is a general dentistry office located in Denton, TX. Serving Denton County and the greater Dallas-Fort Worth metroplex since 2002.</p>"
-    copyright = "Copyright (c) 2014 - 2024, BergerDental; all rights reserved."
+    copyright = "Copyright (c) 2014 - 2024, Berger Dental; all rights reserved."
     # Format dates with Go's time formatting
     date_format = "January 13, 2021"
     
