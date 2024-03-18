@@ -5,8 +5,6 @@ description = "Insurance"
 keywords = ["Dentist","insurance","Denton"]
 +++
 
-### INSURANCE
-
 A common question is "Do you accept my insurance"? Unless you have a policy that requires you to see a specific dentist, you can be seen and we can file your claims for you electronically. If you are unsure, please [call](9405661828) and Donna can let you know over the phone. We collect from the patient their portion of treatment and deductible at the time of treatment. We collect the remainder directly from the insurance company. We do everything in our power to help you as dental policies and insurance companies can be hard to understand and deal with at times.
 
 We do our best to approximate your costs, but as each insurance company and policy is different, we cannot always know your exact cost until the insurance makes payment. Many times we have a history of what they will pay, but even this changes on a yearly basis. It is important to understand your policy and we can help facilitate this.
