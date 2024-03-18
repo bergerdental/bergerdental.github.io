@@ -100,7 +100,7 @@ paginate = 2
     # Format dates with Go's time formatting
     date_format = "January 13, 2021"
     
-	address = """<p class="text-uppercase"><strong>Berger Dental</strong>
+	address = """<p class="text-uppercase"><strong>Berger Dental</strong><br>
         1010 North Elm, Suite A<br>
         Denton, TX 76201<br>
 	tel:940-566-1828</p>"""
