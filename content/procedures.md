@@ -5,8 +5,6 @@ description = "Procedures"
 keywords = ["Dentist","denton","procedures", "crowns", "fillings", "root canals", "bridges", "cleaning", "extractions"]
 +++
 
-### PROCEDURES
-
 Berger Dental is a general dentistry office and performs the following procedures:
 
 * Composite resin fillings (tooth colored)
