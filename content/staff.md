@@ -8,7 +8,7 @@ keywords = ["Berger Dental","Denton","staff"]
 ### Shane T. Berger, DDS
 #### Dentist
 Dr. Berger was raised in Lake Jackson, Texas. After completing his undergraduate studies out of state and receiving a BS in Biology, he attended Baylor College of Dentistry and graduated with a DDS in 1998. He opened his general dentistry practice in Denton, Texas in 1998. He is a member of the American Dental Association and the Texas Dental Association.
-<img src="{{ "img/ShaneBerger.jpg" | relURL }}" align="left" width="200" style="padding: 1rem 0">
+<img src="/img/ShaneBerger.jpg" align="left" width="200" style="padding: 1rem 0">
 
 ### Donna
 #### Office Manager
