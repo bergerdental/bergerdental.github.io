@@ -5,7 +5,6 @@ description = "New Patients"
 keywords = ["Dentist","new","Denton","new patients"]
 +++
 
-### **NEW PATIENTS** 
 We are currently accepting new patients and look forward to taking care of your dental needs. If you have dental insurance, we would appreciate the chance to call and verify your insurance benefits with your insurance company BEFORE your first appointment so that your first visit will be a smooth one with no unexpected surprises.
 
 Below is the patient information, medical history, consent and HIPAA forms which you can download to fill out and either bring with you to your appointment or send ahead of time.
