@@ -1,5 +1,5 @@
 +++ 
-title = "Berger Dental - Contact Us" 
+title = "Contact Us" 
 id = "contact" 
 description = "Contact Us" 
 keywords = ["Dentist","Contac","Denton","new patients"] 
